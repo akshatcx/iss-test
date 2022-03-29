@@ -1,1 +1,2 @@
-Divij
+Name : Divij
+Hobby : Making pull requests
